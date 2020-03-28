@@ -1,4 +1,4 @@
-# JavaScript进阶学习
+# JavaScript高级第02天笔记
 
 ## 1.面向过程与面向对象
 
